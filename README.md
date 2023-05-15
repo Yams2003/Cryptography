@@ -13,4 +13,4 @@ It is an encryption method that provides perfect secrecy if used correctly. The 
 5. Decrypt the ciphertext: To decrypt the ciphertext and recover the original plaintext, the same key that was used for encryption must be used. Perform the XOR operation between each bit of the key and the corresponding bit of the ciphertext.
 6. Convert binary to plaintext: Convert the binary result back into the original plaintext format by mapping each binary symbol to its corresponding character or symbol.
 
-For more information on the topic, watch [this video](https://www.youtube.com/watch?v=QVV_bUxxiZ8).
+Attached in the repo is a demonstration of this in Python 3. For more information on the topic, watch [this video](https://www.youtube.com/watch?v=QVV_bUxxiZ8).
